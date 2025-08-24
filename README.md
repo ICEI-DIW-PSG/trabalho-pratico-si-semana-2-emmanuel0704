@@ -3,8 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Arthur Emmanuel Oliveira Marinho
+- Matricula: 900544
 
 ## Print da tela da página criada (Curriculum Vitae)
 
